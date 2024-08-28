@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\All_Projects\healthcare-management\Healthcare-Management\Healthcare-Management\bin\Debug\net8.0\Healthcare-Management.exe
+C:\Users\PC\Documents\All_Projects\healthcare-management\Healthcare-Management\Healthcare-Management\bin\Debug\net8.0\Healthcare-Management.deps.json
+C:\Users\PC\Documents\All_Projects\healthcare-management\Healthcare-Management\Healthcare-Management\bin\Debug\net8.0\Healthcare-Management.runtimeconfig.json
+C:\Users\PC\Documents\All_Projects\healthcare-management\Healthcare-Management\Healthcare-Management\bin\Debug\net8.0\Healthcare-Management.dll
+C:\Users\PC\Documents\All_Projects\healthcare-management\Healthcare-Management\Healthcare-Management\bin\Debug\net8.0\Healthcare-Management.pdb
+C:\Users\PC\Documents\All_Projects\healthcare-management\Healthcare-Management\Healthcare-Management\obj\Debug\net8.0\Healthcare-Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\All_Projects\healthcare-management\Healthcare-Management\Healthcare-Management\obj\Debug\net8.0\Healthcare-Management.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\All_Projects\healthcare-management\Healthcare-Management\Healthcare-Management\obj\Debug\net8.0\Healthcare-Management.AssemblyInfo.cs
+C:\Users\PC\Documents\All_Projects\healthcare-management\Healthcare-Management\Healthcare-Management\obj\Debug\net8.0\Healthcare-Management.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\All_Projects\healthcare-management\Healthcare-Management\Healthcare-Management\obj\Debug\net8.0\Healthcare-Management.sourcelink.json
+C:\Users\PC\Documents\All_Projects\healthcare-management\Healthcare-Management\Healthcare-Management\obj\Debug\net8.0\Healthcare-Management.dll
+C:\Users\PC\Documents\All_Projects\healthcare-management\Healthcare-Management\Healthcare-Management\obj\Debug\net8.0\refint\Healthcare-Management.dll
+C:\Users\PC\Documents\All_Projects\healthcare-management\Healthcare-Management\Healthcare-Management\obj\Debug\net8.0\Healthcare-Management.pdb
+C:\Users\PC\Documents\All_Projects\healthcare-management\Healthcare-Management\Healthcare-Management\obj\Debug\net8.0\Healthcare-Management.genruntimeconfig.cache
+C:\Users\PC\Documents\All_Projects\healthcare-management\Healthcare-Management\Healthcare-Management\obj\Debug\net8.0\ref\Healthcare-Management.dll

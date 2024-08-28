@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\All_Projects\\healthcare-management\\Healthcare-Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57E62232-9D3D-4BDE-A6E7-5C7C05C50CB7}|Healthcare-Management\\Healthcare-Management.csproj|c:\\users\\pc\\documents\\all_projects\\healthcare-management\\healthcare-management\\healthcare-management\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E62232-9D3D-4BDE-A6E7-5C7C05C50CB7}|Healthcare-Management\\Healthcare-Management.csproj|solutionrelative:healthcare-management\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E62232-9D3D-4BDE-A6E7-5C7C05C50CB7}|Healthcare-Management\\Healthcare-Management.csproj|c:\\users\\pc\\documents\\all_projects\\healthcare-management\\healthcare-management\\healthcare-management\\personnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E62232-9D3D-4BDE-A6E7-5C7C05C50CB7}|Healthcare-Management\\Healthcare-Management.csproj|solutionrelative:healthcare-management\\personnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E62232-9D3D-4BDE-A6E7-5C7C05C50CB7}|Healthcare-Management\\Healthcare-Management.csproj|c:\\users\\pc\\documents\\all_projects\\healthcare-management\\healthcare-management\\healthcare-management\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E62232-9D3D-4BDE-A6E7-5C7C05C50CB7}|Healthcare-Management\\Healthcare-Management.csproj|solutionrelative:healthcare-management\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E62232-9D3D-4BDE-A6E7-5C7C05C50CB7}|Healthcare-Management\\Healthcare-Management.csproj|c:\\users\\pc\\documents\\all_projects\\healthcare-management\\healthcare-management\\healthcare-management\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E62232-9D3D-4BDE-A6E7-5C7C05C50CB7}|Healthcare-Management\\Healthcare-Management.csproj|solutionrelative:healthcare-management\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E62232-9D3D-4BDE-A6E7-5C7C05C50CB7}|Healthcare-Management\\Healthcare-Management.csproj|c:\\users\\pc\\documents\\all_projects\\healthcare-management\\healthcare-management\\healthcare-management\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E62232-9D3D-4BDE-A6E7-5C7C05C50CB7}|Healthcare-Management\\Healthcare-Management.csproj|solutionrelative:healthcare-management\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E62232-9D3D-4BDE-A6E7-5C7C05C50CB7}|Healthcare-Management\\Healthcare-Management.csproj|c:\\users\\pc\\documents\\all_projects\\healthcare-management\\healthcare-management\\healthcare-management\\datetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E62232-9D3D-4BDE-A6E7-5C7C05C50CB7}|Healthcare-Management\\Healthcare-Management.csproj|solutionrelative:healthcare-management\\datetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E62232-9D3D-4BDE-A6E7-5C7C05C50CB7}|Healthcare-Management\\Healthcare-Management.csproj|c:\\users\\pc\\documents\\all_projects\\healthcare-management\\healthcare-management\\healthcare-management\\medical_record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E62232-9D3D-4BDE-A6E7-5C7C05C50CB7}|Healthcare-Management\\Healthcare-Management.csproj|solutionrelative:healthcare-management\\medical_record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E62232-9D3D-4BDE-A6E7-5C7C05C50CB7}|Healthcare-Management\\Healthcare-Management.csproj|c:\\users\\pc\\documents\\all_projects\\healthcare-management\\healthcare-management\\healthcare-management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E62232-9D3D-4BDE-A6E7-5C7C05C50CB7}|Healthcare-Management\\Healthcare-Management.csproj|solutionrelative:healthcare-management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E62232-9D3D-4BDE-A6E7-5C7C05C50CB7}|Healthcare-Management\\Healthcare-Management.csproj|c:\\users\\pc\\documents\\all_projects\\healthcare-management\\healthcare-management\\healthcare-management\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E62232-9D3D-4BDE-A6E7-5C7C05C50CB7}|Healthcare-Management\\Healthcare-Management.csproj|solutionrelative:healthcare-management\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\All_Projects\\healthcare-management\\Healthcare-Management\\Healthcare-Management\\Database.cs",
+              "RelativeDocumentMoniker": "Healthcare-Management\\Database.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\All_Projects\\healthcare-management\\Healthcare-Management\\Healthcare-Management\\Database.cs",
+              "RelativeToolTip": "Healthcare-Management\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:39:01.392Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Medical_Record.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\All_Projects\\healthcare-management\\Healthcare-Management\\Healthcare-Management\\Medical_Record.cs",
+              "RelativeDocumentMoniker": "Healthcare-Management\\Medical_Record.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\All_Projects\\healthcare-management\\Healthcare-Management\\Healthcare-Management\\Medical_Record.cs",
+              "RelativeToolTip": "Healthcare-Management\\Medical_Record.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T11:04:29.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DateTime.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\All_Projects\\healthcare-management\\Healthcare-Management\\Healthcare-Management\\DateTime.cs",
+              "RelativeDocumentMoniker": "Healthcare-Management\\DateTime.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\All_Projects\\healthcare-management\\Healthcare-Management\\Healthcare-Management\\DateTime.cs",
+              "RelativeToolTip": "Healthcare-Management\\DateTime.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwCYAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:34:33.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\All_Projects\\healthcare-management\\Healthcare-Management\\Healthcare-Management\\Appointment.cs",
+              "RelativeDocumentMoniker": "Healthcare-Management\\Appointment.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\All_Projects\\healthcare-management\\Healthcare-Management\\Healthcare-Management\\Appointment.cs",
+              "RelativeToolTip": "Healthcare-Management\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:31:00.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personnel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\All_Projects\\healthcare-management\\Healthcare-Management\\Healthcare-Management\\Personnel.cs",
+              "RelativeDocumentMoniker": "Healthcare-Management\\Personnel.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\All_Projects\\healthcare-management\\Healthcare-Management\\Healthcare-Management\\Personnel.cs",
+              "RelativeToolTip": "Healthcare-Management\\Personnel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:38:36.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nurse.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\All_Projects\\healthcare-management\\Healthcare-Management\\Healthcare-Management\\Nurse.cs",
+              "RelativeDocumentMoniker": "Healthcare-Management\\Nurse.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\All_Projects\\healthcare-management\\Healthcare-Management\\Healthcare-Management\\Nurse.cs",
+              "RelativeToolTip": "Healthcare-Management\\Nurse.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:37:44.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\All_Projects\\healthcare-management\\Healthcare-Management\\Healthcare-Management\\Doctor.cs",
+              "RelativeDocumentMoniker": "Healthcare-Management\\Doctor.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\All_Projects\\healthcare-management\\Healthcare-Management\\Healthcare-Management\\Doctor.cs",
+              "RelativeToolTip": "Healthcare-Management\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:37:15.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\All_Projects\\healthcare-management\\Healthcare-Management\\Healthcare-Management\\Patient.cs",
+              "RelativeDocumentMoniker": "Healthcare-Management\\Patient.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\All_Projects\\healthcare-management\\Healthcare-Management\\Healthcare-Management\\Patient.cs",
+              "RelativeToolTip": "Healthcare-Management\\Patient.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwC8AAACeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:36:42.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\All_Projects\\healthcare-management\\Healthcare-Management\\Healthcare-Management\\Program.cs",
+              "RelativeDocumentMoniker": "Healthcare-Management\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\All_Projects\\healthcare-management\\Healthcare-Management\\Healthcare-Management\\Program.cs",
+              "RelativeToolTip": "Healthcare-Management\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:30:50.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
